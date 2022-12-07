@@ -329,10 +329,10 @@ nav .logo img.hitam{
 /* pengaturan pop-up */
 
 .tombol-tutup-prediksi{
-    background-color: #BBDEFB;
+    background-color: #E6DDC4;
     height: 40px;
     line-height: 38px;
-    color: #000;
+    color: red;
     text-decoration: none;
     display: inline-block;
     padding: 0px 20px 0px 20px;
@@ -356,6 +356,8 @@ nav .logo img.hitam{
 .hasil-prediksi{
     text-align: center;
     color: #6EAB3B;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .konten{
@@ -377,9 +379,9 @@ nav .logo img.hitam{
 
 #prediksi{
     max-width: 600px;
-    height: 500px;
+    height: 800px;
     margin: auto;
-    background-color: #BBDEFB;
+    background-color: #E6DDC4;
     position: absolute;
     border-radius: 2%;
     top: 0;
